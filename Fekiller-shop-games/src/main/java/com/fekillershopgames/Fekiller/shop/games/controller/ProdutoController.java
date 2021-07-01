@@ -50,7 +50,7 @@ public class ProdutoController {
 	public ResponseEntity<Produto> putCat (@RequestBody Produto produto){
 		return ResponseEntity.status(HttpStatus.OK).body(repository.save(produto));
 	}
-	@DeleteMapping("/{id}")
+	@DeleteMapping("/id/{id}")
 	public void deletar (@PathVariable long id) {
 		repository.deleteById(id);
 	}
