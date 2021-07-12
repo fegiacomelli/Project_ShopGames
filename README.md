@@ -7,7 +7,7 @@
 <table>
 
  <td align="center"><a href="https://www.linkedin.com/in/felipe-giacomelli-997a8b19b/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69607844?v=4" width="100px;" alt="Felipe"/><br /><sub><b>Felipe Giacomelli (Fe)</b></sub></a><br /><a href="https://github.com/fegiacomelli" title="Desenvolvedor FullStack Java Jr." :octocat:
- </a></td> 
+ </a></td> :octocat:
    
  <td align="center"><a href="https://www.linkedin.com/in/gabriele-ribeiro-7b739a166/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85172727?v=4" width="100px;" alt="Gabriele"/><br /><sub><b>Gabriele (Gabi)</b></sub></a><br /><a href="https://github.com/Gabriele-Ribeiro" title="Desenvolvedor FullStack Java Jr." :octocat: </a></td> 
    
