@@ -14,4 +14,4 @@
 
 
 [stars-shield]: https://img.shields.io/packagist/stars/fegiacomelli/Project_ShopGames
-[stars-url]: https://github.com/packagist/stars/fegiacomelli/Project_ShopGames/stargazers
+[stars-url]: https://github.com/fegiacomelli/Project_ShopGames/stargazers
