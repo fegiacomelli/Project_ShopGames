@@ -13,5 +13,5 @@
   </table>
 
 
-[stars-shield]: https://img.shields.io/github/stars/fegiacomelli/Project_ShopGames
+[stars-shield]: https://img.shields.io/github/stars/fegiacomelli/Project_ShopGames?style=social
 [stars-url]: https://github.com/fegiacomelli/Project_ShopGames/stargazers
