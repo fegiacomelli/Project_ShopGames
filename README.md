@@ -1,10 +1,10 @@
 # Project_ShopGames
 
 [![Stargazers][stars-shield]][stars-url]
-
+![License][License]
 ![img1](https://user-images.githubusercontent.com/69607844/124310434-8b84e900-db42-11eb-8aae-a8c56b1c4aee.jpg)
 
-
+[License]
 
 <table>
 
@@ -13,5 +13,6 @@
   </table>
 
 
+[License]: https://img.shields.io/github/license/fegiacomelli/Project_ShopGames
 [stars-shield]: https://img.shields.io/github/stars/fegiacomelli/Project_ShopGames?style=social
 [stars-url]: https://github.com/fegiacomelli/Project_ShopGames/stargazers
