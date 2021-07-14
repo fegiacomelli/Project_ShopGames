@@ -2,7 +2,6 @@
 
 [![Stargazers][stars-shield]][stars-url]
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/fegiacomelli/Project_ShopGames?style=social&label=Star&maxAge=2592000)](https://GitHub.com/fegiacomelli/Project_ShopGames/stargazers/)
 
 ![img1](https://user-images.githubusercontent.com/69607844/124310434-8b84e900-db42-11eb-8aae-a8c56b1c4aee.jpg)
 
